@@ -1,5 +1,7 @@
 mlflow.db
 mlartifacts/
+mlruns/
+scratch/
 models/
 outputs/
 data/train_batch1.csv
